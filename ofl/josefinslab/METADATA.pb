@@ -28,7 +28,3 @@ axes {
   min_value: 100.0
   max_value: 700.0
 }
-source {
-  repository_url: "https://github.com/TypeNetwork/Josefinslab"
-  commit: "4313f4d2d07eff6db050cada984197a4c871c042"
-}
